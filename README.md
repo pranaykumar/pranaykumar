@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @pranaykumar
 - 👀 I’m interested in all things Front-End.
-- 🌱 I’m currently learning Vue3.
-- 💞️ I’m looking to collaborate on cool design projects.
 - 📫 Leave me a note at pranay.mishra@gmail.com.
 
 <!---
